@@ -1,0 +1,801 @@
+ENZO 1 Library Name
+Clindamycin·HCl
+Felbamate
+Cyclosporine A
+Donepezil·HCl
+Lincomycin·HCl
+Mycophenolic Acid
+Sirolimus (Rapamycin)
+Spectinomycin·HCl Pentahydrate
+Amiodarone·HCl
+Nicardipine·HCl
+Pimozide
+Loperamide·HCl
+Tolbutamide
+Glipizide
+Phentolamine·HCl
+Quinine·HCl·H2O
+Propafenone·HCl
+Phenytoin
+Procainamide·HCl
+Lidocaine·HCl·H2O
+Flecainide Acetate
+Rosiglitazone 
+Amantadine·HCl
+Prazosin·HCl
+Clonidine·HCl
+Guanabenz Acetate 
+Dihydroergotamine Mesylate
+Emtricitabine
+Betaxolol·HCl
+Caffeine 
+(S)-Timolol Maleate
+Salbutamol Hemisulfate
+Pindolol
+Dobutamine·HCl
+Sotalol·HCl
+Maprotiline·HCl
+Pilocarpine·HCl
+Ipratropium·Br
+Tropicamide
+Pancuronium·2Br
+Ivermectin
+Haloperidol 
+Cimetidine
+Zonisamide
+Zoledronic Acid Monohydrate
+Naltrexone·HCl
+Zolmitriptan
+Memantine·HCl
+Riluzole·HCl
+Propofol
+Aminophylline 
+Nateglinide
+(±) Isoproterenol·HCl 
+Acetylcholine Chloride
+Atropine Sulfate Monohydrate
+Apomorphine·HCl Hemihydrate
+Chlorpromazine·HCl
+Fluphenazine· HCl
+Risperidone
+Diphenhydramine·HCl
+Promethazine·HCl
+Ranitidine·HCl
+Epinephrine (L-(-)-Epinephrine-(+)-Bitartrate)
+Norepinephrine Bitartrate Monohydrate
+Quetiapine Fumarate
+Imipramine·HCl
+Amoxapine
+Metoclopramide·HCl
+Nalbuphine·HCl Dihydrate
+Carbachol (Carbamylcholine ) Chloride
+Famotidine
+Isoniazid
+Ticlopidine·HCl
+Clemastine Fumarate
+Vardenafil 
+Linezolid
+Docetaxel (Taxotere)
+Olopatadine
+Tolcapone
+Olmesartan
+Nisoldipine
+Olanzapine
+Lovastatin
+Lamotrigine
+Azathioprine
+Sildenafil Citrate
+Atovaquone
+Sertaconazole
+Cefepime·HCl Hydrate
+Aripiprazole
+Candesartan
+Butenafine·HCl
+Dorzolamide·HCl
+Escitalopram 
+Eprosartan Mesylate
+Entacapone
+Bleomycin Sulfate
+Guanfacine·HCl
+Tizanidine·HCl
+Carvedilol
+Flumazenil
+Gefitinib
+Imatinib Mesylate
+Idarubicin·HCl
+Montelukast·Na
+Exemestane
+Dinoprostone
+Metformin·HCl
+Anagrelide
+Dofetilide
+Erlotinib
+Tacrine·HCl
+Galantamine·HBr
+Amiloride·HCl·2H2O
+Amlodipine
+Diltiazem·HCl
+Nifedipine
+Nimodipine
+Verapamil·HCl
+Gabapentin
+Felodipine
+Phenoxybenzamine·HCl
+Trifluoperazine· HCl
+Latanoprost
+Alfuzosin
+Bromocriptine Mesylate
+Clozapine
+Acitretin
+Calcitriol
+Ketoconazole
+Cromolyn·Na (Disodium Cromoglycate)
+Capsaicin
+Dexamethasone
+Dipyridamole
+Ethacrynic Acid
+Indomethacin
+Naproxen
+Ibuprofen
+Bumetanide
+Neomycin Sulfate
+Auranofin
+Captopril
+Tranylcypromine Hemisulfate
+Piroxicam
+Moxifloxacin·HCl
+Carbidopa
+Ketoprofen
+Meloxicam
+Terbinafine·HCl
+Sodium Phenylbutyrate
+Simvastatin
+Goserelin Acetate
+Raloxifene·HCl
+Rifampin (Rifampicin)
+Etoposide
+Mitomycin C
+Delavirdine Mesylate
+Daunorubicin·HCl
+Doxorubicin·HCl
+Cetirizine HCl
+Lapatinib Ditosylate
+Pioglitazone·HCl
+Rivastigmine Tartrate
+Ergotamine Tartrate
+Sulindac
+Valproic Acid
+Calcipotriene
+Zafirlukast
+Zileuton
+Bortezomib
+Diazoxide
+Glyburide
+Minoxidil
+Tolazamide
+Bexarotene
+Tranexamic Acid
+Celecoxib
+Levetiracetam
+Letrozole
+Anastrozole
+Bicalutamide
+Clindamycin Palmitate·HCl
+Vorinostat
+Didanosine
+Dolasetron
+Enalaprilat Maleate
+Fluvastatin·Na
+Fosinopril·Na
+Gemcitabine·HCl
+Granisetron·HCl
+Oxaliplatin
+Atazanavir
+Mycophenolate Mofetil
+Clofarabine
+Cabergoline
+Ibandronate·Na Monohydrate
+Imipenem
+Lomustine
+Adapalene
+Meropenem
+Oseltamivir Phosphate
+Pamidronate Disodium  Pentahydrate (Pamidronic Acid)
+Pramipexole Dihydrochloride Monohydrate
+Triptorelin Acetate
+Risredonic Acid
+Rocuronium Bromide
+Vinorelbine 
+Salmeterol 
+Vincristine Sulfate
+Aspirin (Acetylsalicylic Acid)
+Acyclovir (Acycloguanosine) Zovirax
+Zidovudine (3'-Azido-3'-Deoxythymidine)
+Allopurinol
+Altretamine
+Alendronate·Na Trihydrate
+Albendazole
+Sumatriptan Succinate
+Amifostine
+4-Aminosalicylic Acid
+Mesalamine (5-Aminosalicylic Acid)
+Ampicillin Trihydrate
+(±)-Atenolol
+Atracurium Besylate
+Vinblastine Sulfate
+Azithromycin
+Aztreonam
+Betamethasone
+Bisacodyl
+Buspirone·HCl
+Carboplatin
+Carbamazepine
+Cefotaxime Acid
+Ceftazidime
+Chloramphenicol
+Chlorambucil
+Chlorpheniramine Maleate
+Chloroquine Diphosphate
+Thalidomide
+Ciprofloxacin
+Citalopram·HBr
+Clarithromycin
+Clomiphene Citrate
+Clopidogrel Hydrogen Sulfate 
+Clobetasol Propionate
+Orphenadrine Citrate
+Crotamiton
+Cyclophosphamide monohydrate
+Cytarabine
+Dacarbazine
+Danazol
+Desloratadine
+Dextromethorphan
+Diclofenac·Na Salt
+Zalcitabine (2',3'-Dideoxycytidine)
+Diflunisal
+Disulfiram
+Doxazosin Mesylate
+Doxycycline Monohydrate
+Enalapril
+Esomeprazole Potassium
+Estradiol
+Estrone
+Etidronate Disodium
+Famciclovir
+Fenoldopam Mesylate
+Fenoprofen Calcium
+Fenofibrate
+Finasteride
+Fluorouracil (5-Fluorouracil)
+Flurbiprofen
+Amitriptyline·HCl
+Floxuridine
+Fluocinolone Acetonide
+Flutamide
+Fluconazole
+Furosemide
+Ganciclovir
+Gatifloxacin
+Gentamycin Sulfate
+Gemfibrozil
+Glimepiride
+Hydrocortisone
+Hydrocortisone Acetate
+Idoxuridine
+Ifosfamide
+Imiquimod
+Indapamide
+Itraconazole
+Levonorgestrel
+Levofloxacin·HCl
+Leflunomide
+Lisinopril·2H2O
+Loratadine
+Losartan Potassium
+Mebendazole
+Medroxyprogesterone Acetate
+Mefenamic Acid
+Melphalan
+Methyldopa Sesquihydrate (L-Α-Methyl-Dopa Sesquihyrate)
+Methylprednisolone
+Metoprolol Tartrate
+Methimazole
+Metronidazole
+Minocycline 
+Mitoxantrone·HCl
+Paclitaxel (Taxol)
+Nabumetone
+Naphazoline·HCl
+Nefazodone·HCl
+Norethindrone
+Norfloxacin
+Nystatin
+Ofloxacin
+Omeprazole
+Oxcarbazepine
+Oxiconazole Nitrate
+Oxacillin sodium salt monohydrate
+Pantoprazole
+Paroxetine·HCl
+Penciclovir
+Pentoxifylline
+Penicillin V Potassium
+Piperacillin
+Prednisolone
+Progesterone
+Procarbazine·HCl
+Prednisone
+Primaquine Phosphate
+Praziquantel
+Quinapril·HCl
+Ranolazine·2HCl
+Ramipril
+Ribavirin
+Nelfinavir Mesylate
+Rimantadine·HCl
+Propranolol·HCl
+Scopolamine·HBr
+Spironolactone
+Streptomycin Sulfate
+Sulfadiazine
+Sulfasalazine
+Tamsulosin·HCl
+Telmisartan
+Terazosin·HCl
+Tetracycline
+Temozolomide
+Tinidazole
+Tobramycin
+Topotecan·HCl
+Toremifene Base
+Tolmetin sodium dihydrate
+Amoxicillin
+Tramadol·HCl
+Trimethoprim
+Valacyclovir·HCl
+Vecuronium Bromide
+Venlafaxine·HCl
+Bupivacaine·HCl
+Ketotifen Fumarate
+Naloxone·HCl
+Fluoxetine·HCl
+Ondansetron
+Tiotropium Bromide 
+Thioridazine·HCl
+Amrinone
+Milrinone
+Alprostadil
+Misoprostol
+Argatroban
+Cilastatin·Na
+Butoconazole Nitrate
+Mifepristone
+Megestrol Acetate
+Tamoxifen Citrate
+Aprepitant
+Bosentan
+Efavirenz
+Miglustat (N-Butyldeoxynojirimycin·HCl)
+Fulvestrant
+Esmolol
+Capecitabine
+Succinylcholine Chloride·2H2O
+Cyproheptadine·HCl Sesquihydrate
+Abacavir Sulfate
+Acamprosate 
+Acarbose
+Acebutolol·HCl
+Acetaminophen
+Acetazolamide
+Acetohexamide
+Acetohydroxamic Acid
+Acetylcysteine
+Acrivastine
+Adefovir Dipivoxil
+Adenosine
+Blank
+Alitretinoin
+Almotriptan
+Alosetron·HCl
+Blank
+Ambrisentan
+Amcinonide
+Amikacin Disulfate
+Aminocaproic Acid
+Aminohippurate·Na
+Aminolevulinic Acid·HCl
+Amlexanox
+Amphotericin B
+Arsenic Trioxide
+Artemether
+Articaine·HCl
+L-Ascorbic Acid
+Asenapine Maleate
+Atomoxetine·HCl
+Atorvastatin Calcium
+Azacitidine
+Azelaic Acid
+Azelastine·HCl
+Bacitracin
+Baclofen
+Balsalazide
+Beclomethasone Dipropionate
+Benazepril·HCl
+Bendamustine·HCl
+Bendroflumethiazide
+Benztropine Mesylate
+Betaine 
+Bethanechol Chloride
+Bimatoprost
+Biperiden·HCl
+Bisoprolol Fumarate
+Brimonidine
+Bromfenac 
+Brompheniramine Maleate
+Budesonide
+Bupropion 
+Busulfan
+Butorphanol-(+)-Tartrate (Schedule Iv)
+Capreomycin Disulfate
+Carbinoxamine Maleate
+Carglumic Acid
+Blank
+Carmustine
+Cefaclor
+Cefadroxil
+Cefazolin·Na
+Cefdinir
+Cefditoren Pivoxil
+Cefixime
+Cefotetan Disodium
+Cefoxitin·Na
+Cefpodoxime Proxetil
+Cefprozil
+Ceftibuten
+Ceftizoxim·Na
+Ceftriaxone·Na
+Cefuroxime Axetil
+Cefuroxime·Na
+Cephalexin Monohydrate
+Chenodiol (Chenodeoxycholic Acid)
+Blank
+Chlorhexidine Dihydrochloride
+Chlorothiazide
+Chlorpropamide
+Chlorthalidone
+Chlorzoxazone
+Ciclesonide
+Ciclopirox
+Cidofovir
+Cilostazol
+Cinacalcet·HCl
+Cisatracurium Besylate
+Cisplatin (Cis-Diamineplatinum(Ii) Dichloride )
+Cladribine
+Clavulanate Potassium
+Clobazam
+Clofazimine
+Clomipramine·HCl
+Clonazepam
+Clotrimazole
+Cloxacillin·Na 
+Colchicine
+Colistimethate·Na
+Colistin Sulfate
+Cortisone Acetate
+Cyclobenzaprine·HCl
+Cyclopentolate 
+Cycloserine
+Cysteamine·HCl
+Dactinomycin (= Actinomycin D)
+Dalfampridine (4-Aminopyridine)
+Dantrolene·Na
+Dapsone
+Daptomycin
+Darifenacin·HBr
+Darunavir
+Dasatinib
+Decitabine
+Deferasirox
+Deferoxamine Mesylate
+Demeclocycline·HCl
+Desipramine·HCl
+Desogestrel
+Desonide
+Desoximetasone
+Desvenlafaxine Succinate Hydrate
+Dexchlorpheniramine Maleate
+Dexmedetomidine·HCl
+Blank
+Dexrazoxane 
+Diatrizoate Meglumine
+Diazepam
+Dicloxacillin·Na Salt Monohydrate
+Dicyclomine·HCl
+Dienogest
+Blank
+Difluprednate
+Digoxin
+Dimenhydrinate
+Disopyramide 
+Dopamine·HCl
+Doripenem
+Doxapram·HCl H2O
+Doxepin·HCl
+Droperidol
+Drospirenone
+Duloxetine·HCl
+Dutasteride
+Dyphylline
+Econazole Nitrate
+Blank
+Eflornithine·HCl
+Epinastine·HCl
+Epirubicin·HCl
+Eplerenone
+Eptifibatide
+Erythromycin
+Estramustine Phosphate·Na
+Estropipate
+Eszopiclone
+Ethambutol Dihydrochloride
+Blank
+Ethinyl Estradiol
+Ethionamide
+Ethosuximide
+Etodolac
+Etomidate
+Etonogestrel
+Everolimus
+Ezetimibe
+Febuxostat
+Fexofenadine·HCl
+Fingolimod
+Flavoxate·HCl
+Flucytosine
+Fludarabine Phosphate
+Fludrocortisone Acetate
+Flunisolide
+Fluocinonide
+Fluorometholone
+Flurandrenolide
+Blank
+Fluticasone Propionate
+Fluvoxamine Maleate
+Fomepizole
+Formoterol
+Foscarnet·Na (Sodium Phosphonoformate Tribasic Hexahydrate) 
+Fosfomycin Calcium
+Fosphenytoin·Na Pentahydrate
+Gemifloxacin 
+Glycopyrrolate Iodide
+Griseofulvin
+Guanidine·HCl
+Halcinonide
+Halobetasol Propionate
+Hexachlorophene
+Homatropine Methylbromide
+Hydralazine·HCl
+Hydrochlorothiazide
+Hydroflumethiazide
+Hydroxocobalamin·HCl
+Hydroxychloroquine Sulfate
+Hydroxyurea
+Hydroxyzine Dihydrochloride
+Ibutilide Fumarate
+Iloperidone
+Indinavir 
+Irbesartan
+Irinotecan·HCl
+Isocarboxazid
+Isosorbide Dinitrate
+Isotretinoin (13-Cis-Retinoic Acid)
+Isradipine
+Kanamycin Sulfate
+Ketorolac Tromethamine
+Labetalol·HCl
+Lacosamide
+Lactulose
+Lamivudine
+Lansoprazole
+Lenalidomide
+Leucovorin Calcium Pentahydrate
+Levalbuterol·HCl
+Levobunolol·HCl
+Levocarnitine
+Levocetirizine Dihydrochloride
+Levothyroxine·Na
+Lindane
+Liothyronine·Na
+Lopinavir
+Lorazepam
+Loteprednol Etabonate
+Loxapine Succinate
+Mafenide·HCl
+Malathion
+Mannitol
+Maraviroc
+Mechlorethamine·HCl
+Meclizine Dihydrochloride
+Meclofenamate·Na
+Mefloquine·HCl
+Mepenzolate Bromide
+Mepivacaine·HCl
+Meprobamate (Schedule Iv)
+Mequinol
+Mercaptopurine Hydrate
+Mesna
+Mestranol
+Metaproterenol Hemisulfate (Orciprenaline)
+Metaraminol Bitartrate
+Metaxalone
+Methacholine Chloride
+Methazolamide
+Methenamine Hippurate
+Methocarbamol
+Methotrexate 
+Methoxsalen (Xanthotoxin)
+Methscopolamine Bromide ((−)-Scopolamine Methyl Bromide)
+Methsuximide
+Methyclothiazide
+Methyl Aminolevulinate·HCl
+Methylergonovine Maleate
+Metolazone
+Metyrapone
+Blank
+Mexiletine·HCl
+Micafungin 
+Miconazole
+Blank
+Midodrine·HCl
+Miglitol
+Milnacipran·HCl
+Mirtazapine
+Mitotane
+Modafinil (Schedule Iv)
+Moexipril·HCl
+Mometasone Furoate
+Mupirocin
+Nadolol
+Nafcillin·Na
+Naftifine·HCl
+Naratriptan·HCl
+Natamycin
+Nebivolol·HCl
+Nelarabine
+Nepafenac
+Nevirapine
+Niacin (Known As Vitamin B3, Nicotinic Acid And Vitamin Pp) 
+Nicotine
+Nilotinib
+Nilutamide
+Nitazoxanide
+Nitisinone
+Nitrofurantoin
+Nizatidine
+Nortriptyline·HCl
+Olsalazine·Na
+Orlistat (Tetrahydrolipstatin)
+Oxaprozin
+Oxazepam
+Oxtriphylline
+Oxybutynin Chloride
+Oxytetracycline·HCl
+Paliperidone
+Palonosetron·HCl
+Paromomycin Sulfate
+Pazopanib·HCl
+Pemetrexed Disodium
+Pemirolast Potassium
+Penicillamine (D-Penicillamine)
+Penicillin G Potassium (Benzylpenicillin)
+Pentamidine Isethionate
+Pentostatin
+Perindopril Erbumine
+Permethrin
+Perphenazine
+Phenelzine Sulfate
+Phenylephrine 
+Phytonadione
+Pimecrolimus
+Pitavastatin Calcium
+Blank
+Podofilox
+Posaconazole
+Pralidoxime Chloride
+Prasugrel
+Pravastatin·Na
+Pregabalin
+Prilocaine·HCl
+Primidone
+Probenecid
+Blank
+Proparacaine·HCl
+Propylthiouracil
+Protriptyline·HCl
+Pyrazinamide
+Pyridostigmine Bromide
+Pyrimethamine
+Quinidine·HCl·H2O
+Rabeprazole·Na
+Raltegravir
+Ramelteon
+Rasagiline Mesylate
+Regadenoson
+Repaglinide
+Reserpine
+Rifabutin
+Rifapentine
+Rifaximin
+Ritonavir
+Rizatriptan Benzoate
+Ropinirole·HCl
+Ropivacaine·HCl Monohydrate
+Rosuvastatin Calcium
+Rufinamide
+Saquinavir Mesylate
+Selegiline·HCl
+Sertraline·HCl
+Silver Sulfadiazine
+Sitagliptin Phosphate
+Sorafenib Tosylate
+Stavudine
+Streptozocin
+Sulconazole Nitrate
+Sulfacetamide·Na
+Sulfamethoxazole
+Sulfanilamide
+Sunitinib Malate
+Tacrolimus (Fk506)
+Tadalafil
+Tazarotene
+Telbivudine 
+Telithromycin
+Temazepam
+Temsirolimus
+Teniposide
+Tenofovir
+Terbutaline Hemisulfate
+Terconazole
+Testosterone Enanthate
+Tetrabenazine
+Tetrahydrozoline·HCl
+Theophylline
+Thioguanine (6-Thioguanine)
+Thiotepa
+Blank
+Tiagabine·HCl
+Tigecycline
+Tiludronate Disodium
+Tiopronin
+Tirofiban·HCl
+Tolterodine Tartrate
+Tolvaptan
+Topiramate
+Torsemide
+Trandolapril
+Travoprost
+Trazodone·HCl
+Tretinoin
+Triamcinolone Acetonide
+Triamterene
+Triazolam
+Trientine Dihydrochloride
+Trihexyphenidyl·HCl
+Trimethadione
+Trimethobenzamide·HCl
+Trimipramine Maleate
+Trospium Chloride
+Ursodiol
+Valganciclovir·HCl
+Valproate·Na
+Valsartan
+Vancomycin·HCl
+Varenicline Tartrate
+Vigabatrin
+Voriconazole
+Warfarin·Na
+Zaleplon
+Zanamivir
+Ziprasidone hydrochloride
