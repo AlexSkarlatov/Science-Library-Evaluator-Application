@@ -21,21 +21,22 @@ public class Main {
         try{
             //prompt the user for the file names and file paths
 
-            FileReader fr1 = new FileReader("enzo 1 library.txt");
-            FileReader fr2 = new FileReader("enzo 1 library.txt");
+
+            FileReader fr1 = new FileReader("E:\\CODING-LEARNINGS\\SpringBootLearning\\ListUnionVerificationApp\\src\\com\\company\\textfiles\\enzo.txt");
+            FileReader fr2 = new FileReader("E:\\CODING-LEARNINGS\\SpringBootLearning\\ListUnionVerificationApp\\src\\com\\company\\textfiles\\preswick.txt");
 
             BufferedReader bufferedReader = new BufferedReader(fr1);
             BufferedReader bufferedReader2 = new BufferedReader(fr2);
 
-            String str1, str2;
+            String str1, str2 = " ";
             while ((str1 = bufferedReader.readLine())   != null ||   (str2 = bufferedReader2.readLine())  != null){
-                System.out.println("testing to see if works" + str1);
+                System.out.println("list 1 ===  " + str1 + "|||    list 2 ===   " + str2 );
             }
 
 //          fileReader();
         }
         catch(IOException e ){
-            System.out.println("eerror");
+            e.printStackTrace();
         }
 
 
